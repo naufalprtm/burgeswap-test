@@ -1,0 +1,17 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "description": "A Hardhat project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@openzeppelin/contracts": "^3.4.0",
+    "chai": "^5.1.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.8",
+    "mocha": "^10.7.0"
+  }
+}
